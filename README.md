@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="images/banner.png" alt="banner-1.png" />
+</p>
 # Hi, I'm **M Lakshmikanth** 👋  
 
 **DevOps Engineer @ Infosys (Morgan Stanley E-Trade)**  
