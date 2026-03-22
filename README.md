@@ -33,14 +33,16 @@ I work on building reliable infrastructure, smooth deployments, and systems that
 ---
 
 
-## 🚀 What I Work On
+💼 **Career Snapshot**
 
-- Designing and managing AWS infrastructure using Terraform  
-- Building CI/CD pipelines using Jenkins & GitHub Actions  
-- Containerizing applications using Docker  
-- Deploying and managing applications on Kubernetes (EKS)  
-- Implementing monitoring with Prometheus, Grafana, ELK  
-- Integrating security tools like SonarQube into pipelines  
+🏢 **Infosys – Technology Analyst (DevSecOps Engineer)**
+Working with Morgan Stanley E-Trade, handling AWS infrastructure using Terraform and deploying applications on Kubernetes (EKS). Focused on improving CI/CD pipelines with Jenkins and GitHub Actions, and integrating security checks using SonarQube to make deployments faster and more reliable.
+
+🏢 **Infosys – Senior System Engineer (DevOps Engineer)**
+Built reusable Terraform modules and standardized CI/CD pipelines across multiple microservices. Worked on Kubernetes deployments, improved system scalability, and optimized AWS resources to reduce costs and improve performance.
+
+🏢 **Cascade Data Solutions – Support Engineer (DevOps & Linux)**
+Managed AWS environments and Linux systems, automated routine tasks using shell scripting, and supported CI/CD pipelines. Worked on resolving production issues and improving system stability through proper monitoring and troubleshooting.
 
 ---
 
