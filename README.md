@@ -33,7 +33,9 @@ I work on building reliable infrastructure, smooth deployments, and systems that
 - Standardized pipelines across **20+ microservices**  
 
 ---
+## 🐍 Contribution Snake
 
+![snake gif](https://github.com/m-lakshmikanth/snake-game/blob/output/github-contribution-grid-snake.svg)
 ## 📊 GitHub Stats
 
 <p>
