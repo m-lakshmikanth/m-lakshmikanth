@@ -46,10 +46,11 @@ I work on building reliable infrastructure, smooth deployments, and systems that
 
 ## 📈 Highlights
 
-- Improved deployment speed by **30–40%** through CI/CD optimization  
-- Reduced MTTR by **40–50%** using monitoring & alerting systems  
-- Optimized AWS costs by **10–15%**  
-- Standardized pipelines across **20+ microservices**  
+- Built and standardized CI/CD pipelines for 20+ microservices at Morgan Stanley (E-Trade) using Jenkins Shared Libraries, improving release consistency and reducing manual effort  
+- Integrated SonarQube into CI pipelines to detect vulnerabilities (SQL injection, secrets, code smells) early in the development cycle, improving code quality and reducing rework  
+- Implemented centralized monitoring and alerting using Prometheus, Grafana, ELK, and AWS CloudWatch, reducing alert noise and improving incident response time (MTTR)  
+- Designed reusable Terraform modules with remote state (S3 + DynamoDB locking) to provision AWS infrastructure consistently across environments  
+- Optimized AWS resources (EC2 right-sizing, EBS cleanup, idle resource removal), improving cost efficiency and overall infrastructure utilization    
 
 ---
 
