@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/m-lakshmikanth/m-lakshmikanth/blob/main/banner-1.png" alt="GitHub Banner" width="800"/>
+    <img src="https://github.com/m-lakshmikanth/m-lakshmikanth/blob/main/banner-2.png" alt="GitHub Banner" width="800"/>
 </div>
 # Hi, I'm **M Lakshmikanth** 👋  
 
