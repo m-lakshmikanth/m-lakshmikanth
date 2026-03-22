@@ -66,4 +66,4 @@ Managed AWS environments and Linux systems, automated routine tasks using shell 
 
 ---
 
-⭐ Always learning and improving in DevOps & Cloud
+⭐  Always learning and improving in DevOps & Cloud (so deployments don’t break at 2 AM) 😄
