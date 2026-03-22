@@ -70,8 +70,7 @@ Worked on deploying and managing applications in Kubernetes
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/lakshmikanth333
-* LinkedIn: (Add your link here)
+* GitHub: https://github.com/m-lakshmikanth
 
 ---
 
