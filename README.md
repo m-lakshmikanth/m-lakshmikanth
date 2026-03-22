@@ -18,12 +18,6 @@ I work on building reliable infrastructure, smooth deployments, and systems that
 
 ---
 
-🔗 Connect with me:  
-- GitHub: https://github.com/m-lakshmikanth    
-- Email: lakshmikanthm333@gmail.com 
-
----
-
 ## 🛠️ Tech Stack
 
 <p>
