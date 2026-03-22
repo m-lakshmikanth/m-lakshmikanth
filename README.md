@@ -1,7 +1,8 @@
-# Hi, I'm M Lakshmikanth 👋  
+# Hi, I'm **M Lakshmikanth** 👋  
 
-DevOps Engineer @ Infosys (Morgan Stanley E-Trade)  
-🚀 DevOps • Cloud Engineer | AWS | Terraform | CI/CD | Kubernetes | Automation  
+**DevOps Engineer @ Infosys (Morgan Stanley E-Trade)**  
+
+🚀 **DevOps • Cloud Engineer | AWS | Terraform | CI/CD | Kubernetes | Automation**  
 
 📍 Bangalore, India  
 
