@@ -57,7 +57,7 @@ I work on building reliable infrastructure, smooth deployments, and systems that
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=m-lakshmikanth&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-lakshmikanth&layout=compact&theme=tokyonight" />
 </p>
 
 <p>
