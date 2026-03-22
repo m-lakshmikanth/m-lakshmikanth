@@ -6,15 +6,15 @@
 
 📍 Bangalore, India  
 
----
-
-🔗 Connect with me:  
-- GitHub: https://github.com/m-lakshmikanth  
-- LinkedIn: (add your link)  
-- Email: lakshmikanthm333@gmail.com 
 
 🚀 DevOps Engineer who enjoys turning manual, messy processes into clean, automated systems.
 I work on building reliable infrastructure, smooth deployments, and systems that don’t wake people up at 2 AM 😄
+
+---
+
+🔗 Connect with me:  
+- GitHub: https://github.com/m-lakshmikanth    
+- Email: lakshmikanthm333@gmail.com 
 
 ---
 
