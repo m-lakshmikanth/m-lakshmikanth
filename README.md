@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi, I'm Lakshmikanth 👋
 
-<!--
-**m-lakshmikanth/m-lakshmikanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps Engineer | AWS | Terraform | CI/CD  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+🔭 Currently working on  
+- DevOps, CI/CD pipelines, and cloud infrastructure  
+
+👯 Open to collaborate on  
+- DevOps and cloud-based projects  
+
+🌱 Currently learning  
+- Kubernetes and improving automation  
+
+💬 Ask me about  
+- AWS, Terraform, CI/CD, Linux  
+
+⚡ Fun fact  
+- I prefer automating tasks to improve efficiency  
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,terraform,linux,git,github,jenkins,docker,kubernetes,ansible" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=m-lakshmikanth&show_icons=true&theme=tokyonight" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-lakshmikanth&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- 🔹 Terraform Infrastructure Setup  
+- 🔹 CI/CD Pipeline using Jenkins  
+- 🔹 Dockerized Applications  
+- 🔹 Kubernetes Deployment  
+
+---
+
+## 📫 Connect
+
+- GitHub: https://github.com/m-lakshmikanth
+
+---
+
+⭐ Always learning and improving
